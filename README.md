@@ -92,11 +92,11 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 
 [dengyuhan](https://github.com/dengyuhan)  id: 17588779
 
-[looperwow](https://github.com/looperwow)  id: 20123042
+[tfzh](https://github.com/tfzh)  id: 20123042
 
 [unsad](https://github.com/unsad)  id: 20830966
 
-[audeSt](https://github.com/audeSt)  id: 21312018
+[ReenStick](https://github.com/ReenStick)  id: 21312018
 
 [joyce-song](https://github.com/joyce-song)  id: 21741363
 
@@ -225,31 +225,31 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 
 [dengyuhan/retrofit-rxjava-okhttp](https://github.com/dengyuhan/retrofit-rxjava-okhttp)  id: 17588779/78730574
 
-[looperwow/encodeSVG](https://github.com/looperwow/encodeSVG)  id: 20123042/78638318
+[tfzh/encodeSVG](https://github.com/tfzh/encodeSVG)  id: 20123042/78638318
 
-[looperwow/looper-ui](https://github.com/looperwow/looper-ui)  id: 20123042/83121352
+[tfzh/looper-ui](https://github.com/tfzh/looper-ui)  id: 20123042/83121352
 
 [unsad/components-lib-](https://github.com/unsad/components-lib-)  id: 20830966/78914981
 
-[audeSt/aude-blog-backup](https://github.com/audeSt/aude-blog-backup)  id: 21312018/70984226
+[ReenStick/aude-blog-backup](https://github.com/ReenStick/aude-blog-backup)  id: 21312018/70984226
 
-[audeSt/aude-arithmetic](https://github.com/audeSt/aude-arithmetic)  id: 21312018/72611883
+[ReenStick/aude-arithmetic](https://github.com/ReenStick/aude-arithmetic)  id: 21312018/72611883
 
-[audeSt/aude-distributed-spider-framework](https://github.com/audeSt/aude-distributed-spider-framework)  id: 21312018/73835588
+[ReenStick/aude-distributed-spider-framework](https://github.com/ReenStick/aude-distributed-spider-framework)  id: 21312018/73835588
 
-[audeSt/aude-distributed-rpc-framework](https://github.com/audeSt/aude-distributed-rpc-framework)  id: 21312018/74155599
+[ReenStick/aude-distributed-rpc-framework](https://github.com/ReenStick/aude-distributed-rpc-framework)  id: 21312018/74155599
 
-[audeSt/aude-job-scheduler](https://github.com/audeSt/aude-job-scheduler)  id: 21312018/74676974
+[ReenStick/aude-job-scheduler](https://github.com/ReenStick/aude-job-scheduler)  id: 21312018/74676974
 
-[audeSt/aude-distributed-session](https://github.com/audeSt/aude-distributed-session)  id: 21312018/75330453
+[ReenStick/aude-distributed-session](https://github.com/ReenStick/aude-distributed-session)  id: 21312018/75330453
 
-[audeSt/aude-sharding](https://github.com/audeSt/aude-sharding)  id: 21312018/76886857
+[ReenStick/reen-sharding](https://github.com/ReenStick/reen-sharding)  id: 21312018/76886857
 
-[audeSt/aude-stress-test-platform](https://github.com/audeSt/aude-stress-test-platform)  id: 21312018/78285437
+[ReenStick/aude-stress-test-platform](https://github.com/ReenStick/aude-stress-test-platform)  id: 21312018/78285437
 
-[audeSt/aude-aio](https://github.com/audeSt/aude-aio)  id: 21312018/78320480
+[ReenStick/aude-aio](https://github.com/ReenStick/aude-aio)  id: 21312018/78320480
 
-[audeSt/aude-mvc](https://github.com/audeSt/aude-mvc)  id: 21312018/79183674
+[ReenStick/aude-mvc](https://github.com/ReenStick/aude-mvc)  id: 21312018/79183674
 
 [joyce-song/WonderMusic](https://github.com/joyce-song/WonderMusic)  id: 21741363/80208227
 
@@ -284,7 +284,7 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 
 [JanakBca1992](https://github.com/JanakBca1992)  id: 25058316
 
-[tombibos](https://github.com/tombibos)  id: 25071268
+[tomluence](https://github.com/tomluence)  id: 25071268
 
 [eric1Wang](https://github.com/eric1Wang)  id: 25071583
 
@@ -490,9 +490,9 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 
 [thatmec](https://github.com/thatmec)  id: 25953499
 
-[zhangtengfeii](https://github.com/zhangtengfeii)  id: 25953618
+[tfgzhang](https://github.com/tfgzhang)  id: 25953618
 
-[whoamim](https://github.com/whoamim)  id: 25953754
+[miniscrt](https://github.com/miniscrt)  id: 25953754
 
 [baddadbad](https://github.com/baddadbad)  id: 25954394
 
