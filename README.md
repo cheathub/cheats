@@ -14,8 +14,6 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 
 [mayuanyang](https://github.com/mayuanyang)  id: 3387099
 
-[a-jie](https://github.com/a-jie)  id: 3407208
-
 [veficos](https://github.com/veficos)  id: 4018488
 
 [cyuanxin](https://github.com/cyuanxin)  id: 4277626
@@ -122,8 +120,6 @@ Cheats 是一个收集在 GitHub 上作弊用户的黑名单项目。欢迎提�
 [lizhonghui/blog](https://github.com/lizhonghui/blog)  id: 2040608/49656111
 
 [mayuanyang/Mediator.Net](https://github.com/mayuanyang/Mediator.Net)  id: 3387099/77199986
-
-[a-jie/NgxAni](https://github.com/a-jie/NgxAni)  id: 3407208/80104995
 
 [veficos/ulcer](https://github.com/veficos/ulcer)  id: 4018488/45174898
 
